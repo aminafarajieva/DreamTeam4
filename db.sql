@@ -1,7 +1,4 @@
 
--- SELECT * FROM produsers;
--- SELECT * FROM produsers WHERE produser_company = 'Aser' ORDER BY prodused_date DESC;
-
 -- 1
 -- SELECT k.product_name, k.price, s.price, s.product_name FROM kivano k INNER join sulpak s on s.price = k.price WHERE s.category_id= 2 and k.category_id= 1;
 
